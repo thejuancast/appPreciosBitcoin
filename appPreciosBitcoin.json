@@ -1,0 +1,54 @@
+{
+    "time":
+    {
+        "updated":"Dec 15, 2023 02:41:00 UTC",
+        "updatedISO":"2023-12-15T02:41:00+00:00",
+        "updateduk":"Dec 15, 2023 at 02:41 GMT"
+    },
+    "disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+    "chartName":"Bitcoin",
+    "bpi":{ 
+        "USD":{
+            "code":"USD",
+            "symbol":"&#36;",
+            "rate":"42,914.60",
+            "description":"United States Dollar",
+            "rate_float":42914.60
+            },
+        "GBP":{
+            "code":"GBP",
+            "symbol":"&pound;",
+            "rate":"35,867.8841",
+            "description":"British Pound Sterling",
+            "rate_float":35867.8841
+            },
+        "EUR":{
+            "code":"EUR",
+            "symbol":"&euro;",
+            "rate":"38,938.77",
+            "description":"Euro",
+            "rate_float":38938.77	
+            },
+        "MXN":{
+            "code":"MXN",
+            "symbol":"&#36;",
+            "rate":"735,247.29",
+            "description":"Pesos mexicanos",
+            "rate_float":735247.29	
+            },
+        "JPY":{
+            "code":"JPY",
+            "symbol":"&pound;",
+            "rate":"6,092,324.80",
+            "description":"Yen japones",
+            "rate_float":6092324.80
+            },
+        "YUAN":{
+            "code":"YUAN",
+            "symbol":"&pound;",
+            "rate":"35,867.8841",
+            "description":"Yuan chino",
+            "rate_float":35867.8841
+            }
+    }
+}
